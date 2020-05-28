@@ -1,0 +1,28 @@
+<page>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <bold/>
+        <bold/>
+        <color>green</color>
+        <code>It's main page</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <font>Calibri</font>
+        <italic/>
+        <bold/>
+        <code>Hello world</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <link>
+        <ref>news</ref>
+        <code>Go to news</code>
+    </link>
+</page>

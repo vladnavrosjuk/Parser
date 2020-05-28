@@ -1,0 +1,84 @@
+[
+  {
+    "name": "page",
+    "type": "tag",
+    "parseAs": {
+      "name": "body",
+      "type": "tag"
+    }
+  },
+  {
+    "name": "upLine",
+    "type": "tag",
+    "parseAs": {
+      "name": "br",
+      "type": "tag"
+    }
+  },
+  {
+    "name": "innerText",
+    "type": "tag",
+    "parseAs": {
+      "name": "div",
+      "type": "tag"
+    }
+  },
+  {
+    "name": "code",
+    "type": "tag",
+    "parseAs": {
+      "type": "source"
+    }
+  },
+
+  {
+    "name": "link",
+    "type": "tag",
+    "parseAs": {
+      "name": "a",
+      "type": "tag"
+    }
+  },
+  {
+    "name": "ref",
+    "type": "tag",
+    "parseAs": {
+      "name": "href",
+      "type": "attr"
+    }
+  },
+  {
+    "name": "font",
+    "type": "tag",
+    "parseAs": {
+      "name": "font-family",
+      "type": "style"
+    }
+  },
+  {
+    "name": "color",
+    "type": "tag",
+    "parseAs": {
+      "name": "color",
+      "type": "style"
+    }
+  },
+  {
+    "name": "italic",
+    "type": "tag",
+    "parseAs": {
+      "type": "style",
+      "name": "font-style",
+      "value": "italic"
+    }
+  },
+  {
+    "name": "bold",
+    "type": "tag",
+    "parseAs": {
+      "type": "style",
+      "name": "font-weight",
+      "value": "bold"
+    }
+  }
+]

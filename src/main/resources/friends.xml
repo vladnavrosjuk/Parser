@@ -1,0 +1,28 @@
+<page>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <bold/>
+        <bold/>
+        <color>red</color>
+        <code>It's friends page</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <font>Calibri</font>
+        <italic/>
+        <bold/>
+        <code>No friend today</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <link>
+        <ref>index</ref>
+        <code>Go to main page</code>
+    </link>
+</page>

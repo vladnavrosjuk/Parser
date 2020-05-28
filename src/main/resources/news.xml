@@ -1,0 +1,28 @@
+<page>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <bold/>
+        <bold/>
+        <color>red</color>
+        <code>It's news page</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <innerText>
+        <font>Calibri</font>
+        <italic/>
+        <bold/>
+        <code>No news today</code>
+    </innerText>
+    <upLine/>
+    <upLine/>
+    <upLine/>
+    <link>
+        <ref>friends</ref>
+        <code>Go to friends</code>
+    </link>
+</page>
